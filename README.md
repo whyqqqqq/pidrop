@@ -39,3 +39,7 @@ Write a setup script to generate this config file.
 ### Step 7
 
 Write an [upstart](http://upstart.ubuntu.com/) script.
+
+### Step 8
+
+It worked! 
